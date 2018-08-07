@@ -3,6 +3,7 @@
 ## Assignment: Sample 3
 ## Question: Write a program cat.py that takes a filename as command-line argument and prints all the contents of that file.
 ##############################################################################################################################
+#!/usr/bin/python
 import sys
 import os
 

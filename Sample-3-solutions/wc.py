@@ -3,6 +3,7 @@
 ## Assignment: Sample 3
 ## Question: Write a program wc.py that takes filename as argument and counts number of lines, words and chars in file.
 #########################################################################################################################
+#!/usr/bin/python
 import cat
 
 fname = cat.get_file()

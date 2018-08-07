@@ -3,6 +3,7 @@
 ## Assignment: Sample 3
 ## Question: Write a program head.py that takes a filename as command-line argument and prints the first 5 lines of it.
 #########################################################################################################################
+#!/usr/bin/python
 import cat
 
 fname = cat.get_file()

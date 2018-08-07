@@ -3,6 +3,7 @@
 ## Assignment: Sample 3
 ## Question: Write a program files-only.py to find only file and not sub directories. Pass directory name as command line argument.
 #####################################################################################################################################
+#!/usr/bin/python
 import cat
 import os
 

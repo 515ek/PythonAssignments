@@ -3,6 +3,7 @@
 ## Assignment: Sample 3
 ## Question: Write a program grep.py that takes a pattern and a filename as command-line argument and prints all the lines in the file that contain given pattern.
 ####################################################################################################################################################################
+#!/usr/bin/python
 import cat
 import re
 

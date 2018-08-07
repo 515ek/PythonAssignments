@@ -3,7 +3,8 @@
 ## Assignment: Sample 3
 ## Question: Write a function unique to find all the unique elements of a list.
 #################################################################################
-ls = input('enter the elements of the list\n')
+#ls = input('enter the elements of the list\n')
+#!/usr/bin/python
 def unique(ls):
 	unls = []
 	for l in ls:
@@ -11,4 +12,4 @@ def unique(ls):
 			unls.append(l)
 	return unls
 
-print(unique(ls))
+#print(unique(ls))

@@ -3,6 +3,7 @@
 ## Assignment: Sample 3
 ## Question: Write a function group(list, size) that take a list and splits into smaller lists of given size.
 ###############################################################################################################
+#!/usr/bin/python
 ls = input('enter the elements of the list\n').split(' ')
 size = int(input('enter the size to split the list\n'))
 def group(ls, size):

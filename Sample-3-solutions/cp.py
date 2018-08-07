@@ -3,6 +3,7 @@
 ## Assignment: Sample 3
 ## Question: Write a program copyfile.py to copy one file to another. It should accept two filenames as command-line arguments and copies the first one into the second.
 ##########################################################################################################################################################################
+#!/usr/bin/python
 import cat
 
 files = cat.get_files(2)

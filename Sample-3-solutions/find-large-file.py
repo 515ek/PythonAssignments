@@ -5,6 +5,7 @@
 ##			 The program should accept the directory and the size as command-line argument.
 ##			 The size can be also be specified with K, M and G suffix for KB, MB and GB respectively.
 #################################################################################################################################
+#!/usr/bin/python
 import cat
 import sys
 import os
